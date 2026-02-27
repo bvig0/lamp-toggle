@@ -12,4 +12,6 @@ Este repositório contém um projeto de **página interativa com animação de l
 - Mudança de aparência ao clicar
 - Design simples e responsivo  
 
+---
+
 ### 👨‍💻 Desenvolvido por Brian Vigo de Oliveira
