@@ -2,10 +2,6 @@
 
 Este repositório contém um projeto de **página interativa com animação de lâmpada**, onde a lâmpada pisca automaticamente e o usuário pode **ligar e desligar** usando um botão.  
 
-
-## 📌 Demonstração
-🔗 [Clique aqui para visualizar o projeto](https://bvig0.github.io/Lamp/)
-
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** → estrutura da página  
 - **CSS3** → animação da lâmpada, estilo do botão e controle do botão ligar/desligar    
